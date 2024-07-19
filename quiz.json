@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Star Wars: The Force Awakens.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the stormtrooper defector?",
+      "answers": ["Finn", "Rey", "Poe"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is the scavenger on Jakku?",
+      "answers": ["Rey", "Finn", "Han"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Kylo Ren's weapon?",
+      "answers": ["Saber", "Blaster", "Bow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Han's co-pilot?",
+      "answers": ["Chewie", "Leia", "Rey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the First Order's base?",
+      "answers": ["Stark", "Death", "Hoth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Resistance pilot?",
+      "answers": ["Poe", "Finn", "Han"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Rey's mentor?",
+      "answers": ["Han", "Luke", "Leia"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wields a blue lightsaber?",
+      "answers": ["Rey", "Finn", "Poe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What droid has the map?",
+      "answers": ["BB-8", "R2", "C-3PO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the leader of the First Order?",
+      "answers": ["Snoke", "Kylo", "Hux"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who fights Kylo Ren in the forest?",
+      "answers": ["Rey", "Finn", "Han"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Millennium Falcon?",
+      "answers": ["Ship", "Star", "Base"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the former stormtrooper?",
+      "answers": ["Finn", "Rey", "Poe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the General of the Resistance?",
+      "answers": ["Leia", "Han", "Poe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What planet is Rey from?",
+      "answers": ["Jakku", "Hoth", "Endor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Kylo Ren's father?",
+      "answers": ["Han", "Luke", "Snoke"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Kylo Ren's real name?",
+      "answers": ["Ben", "Anakin", "Luke"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Supreme Leader?",
+      "answers": ["Snoke", "Kylo", "Hux"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What color is Rey's lightsaber?",
+      "answers": ["Blue", "Red", "Green"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the name of the pilot's droid?",
+      "answers": ["BB-8", "R2", "C-3PO"],
       "correctAnswerIndex": 0
     }
   ]
